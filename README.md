@@ -26,5 +26,19 @@ see `clean.ipynb`
 see `attack.ipynb`
 
 ## Cite
-
+```bibtex
+@inproceedings{chen2021understanding,
+  title     = {Understanding Structural Vulnerability in Graph Convolutional Networks},
+  author    = {Chen, Liang and Li, Jintang and Peng, Qibiao and Liu, Yang and Zheng, Zibin and Yang, Carl},
+  booktitle = {IJCAI},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {2249--2255},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/310},
+  url       = {https://doi.org/10.24963/ijcai.2021/310},
+}
+```
 
