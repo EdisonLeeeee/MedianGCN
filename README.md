@@ -11,7 +11,7 @@ Also, we provided the implementation with PyTorch Geometric (much faster) in [De
 + [test_median_gcn](https://github.com/DSE-MSU/DeepRobust/blob/master/examples/graph/test_median_gcn.py)
 
 ## Requirements
-+ torch
+
 + graphgallery
 + torch>=1.4.0
 
