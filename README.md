@@ -12,14 +12,11 @@ Also, we provided the implementation with PyTorch Geometric (much faster) in [De
 
 ## Requirements
 
-+ graphgallery
 + torch>=1.4.0
-
-## Install graphgallery
++ graphgallery
 ```bash
-git clone https://github.com/EdisonLeeeee/GraphGallery.git
-cd GraphGallery
-pip install -e .
+git clone https://github.com/EdisonLeeeee/GraphGallery.git && cd GraphGallery
+pip install -e . --verbose
 ```
 
 ## Usage
