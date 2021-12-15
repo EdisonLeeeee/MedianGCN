@@ -1,13 +1,15 @@
 # MedianGCN
-A PyTorch implementation of MedianGCN and TrimmedGCN in [Understanding Structural Vulnerability in Graph Convolutional Networks](https://www.ijcai.org/proceedings/2021/310) (IJCAI 2021).
+Official PyTorch implementation of MedianGCN and TrimmedGCN in Understanding Structural Vulnerability in Graph Convolutional Networks (IJCAI 2021). [[Paper]](https://www.ijcai.org/proceedings/2021/310)  [[Poster]](./poster.pdf) .
 
 <p align="center"> <img src="./imgs/demo.png" /> <p align="center"><em>Fig. 1.  A simple example of the weighted mean, median, and trimmed mean aggregation. The trimmed mean discards the largest and smallest value.</em></p>
 
-The models are now also available in the package [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery), see:
+<p align="center"> <img src="./imgs/poster.png" width="60%"/> <p align="center"><em>Fig. 2.  IJCAI 2021 Poster.</em></p>
+
+These models are now also available our Pytorch-based repository [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery), see:
 + `graphgallery.gallery.nodeclas.MedianGCN`
 + `graphgallery.gallery.nodeclas.TrimmedGCN`
 
-Also, we provided the implementation with PyTorch Geometric (much faster) in [DeepRobust](https://github.com/DSE-MSU/DeepRobust), see:
+Also, we provid the implementation with PyTorch Geometric (much faster) in [DeepRobust](https://github.com/DSE-MSU/DeepRobust), see:
 + [test_median_gcn](https://github.com/DSE-MSU/DeepRobust/blob/master/examples/graph/test_median_gcn.py)
 
 ## Requirements
