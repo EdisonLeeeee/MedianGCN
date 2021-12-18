@@ -1,5 +1,7 @@
 # MedianGCN
-Official PyTorch implementation of MedianGCN and TrimmedGCN in **Understanding Structural Vulnerability in Graph Convolutional Networks** (IJCAI 2021) [[Paper]](https://www.ijcai.org/proceedings/2021/310)  [[Poster]](./poster.pdf) .
+Official PyTorch implementation of MedianGCN and TrimmedGCN in **Understanding Structural Vulnerability in Graph Convolutional Networks** (IJCAI 2021).
+
+[[Paper]](https://www.ijcai.org/proceedings/2021/310) | [[Poster]](./poster.pdf) | [[Slides]](./slides.pdf)
 
 
 <p align="center"> <img src="./imgs/demo.png" /> <p align="center"><em>Fig. 1.  A simple example of the weighted mean, median, and trimmed mean aggregation. The median and trimmed mean achieve the best robustness performance compared to state-of-the-art models without sacrificing predictive accuracy.</em></p>
